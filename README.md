@@ -7,9 +7,9 @@
 
 
 ## How to Install
-1.Download the repo..
-2.Open in VS Code
-3.Open the Inbuilt Termimal and write command `npm install` It will download the node Module
-4.Run `npm start` and enjoy the game.
+1.Download the repo.. <br>
+2.Open in VS Code <br>
+3.Open the Inbuilt Termimal and write command `npm install` It will download the node Module <br>
+4.Run `npm start` and enjoy the game. <br>
 
 
