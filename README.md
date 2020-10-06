@@ -1,4 +1,4 @@
-## Legendery Tic Tak Toe Game..Which you can play in Lockdown To pass your time..
+## Legendary Tic Tak Toe Game..Which you can play in Lockdown To pass your time..
 
 ## Screenshots
 <br>
